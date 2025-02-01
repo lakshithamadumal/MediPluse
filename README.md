@@ -33,7 +33,7 @@ MediPluse is a **pharmacy management system** built using **Java ☕ and MySQL �
 ---
 ## 📸 Screenshots
 ![MediPluse](./src/images/Blue%20Sky%20Modern%20Medical%20Presentation%20Template.png)
-![Admin Dashboard](./Screenshot.png)
+![Admin Dashboard](./src/images/Screenshot.png)
 
 ---
 ## 🔧 Installation
